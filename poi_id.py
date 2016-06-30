@@ -180,8 +180,8 @@ def run_algorithm(algorithm):
 for algo in algorithms:
     run_algorithm(algo)    
 
-
-clf = 'Naive_Bayes'
+# Naive Bayes yields best result
+clf, selected_features = model.create_pipeline('Naive_Bayes', features_train, labels_train, features_list)
 
 ##############################################################################
 ### Task 6: Dump your classifier, dataset, and features_list so anyone can
