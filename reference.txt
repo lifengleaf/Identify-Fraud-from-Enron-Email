@@ -1,0 +1,7 @@
+http://scikit-learn.org/stable/
+http://sebastianraschka.com/Articles/2014_about_feature_scaling.html
+http://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/
+http://protips.maxmasnick.com/hide-code-when-sharing-ipython-notebooks
+https://stanford.edu/~mwaskom/software/seaborn/generated/seaborn.boxplot.html
+http://effbot.org/pyfaq/how-do-i-create-a-pyc-file.htm
+
